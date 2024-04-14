@@ -8,9 +8,9 @@
 - 👨‍💻 All of my projects are available at https://github.com/shahkimaya
 
 ### 🔨 Work Experience :
-- **Data Engineer Coop** @ [**PVH, New Jersey, USA** ](https://www.pvh.com/)
-- **Data Engineer** @ [**Quantiphi, Mumabi, India**](https://quantiphi.com/)
-- **Data Analyst** @ [**Bitwise, Pune, India**](https://www.bitwiseglobal.com/en-us/)
+- **Data Engineer Coop** @[**PVH, New Jersey, USA** ](https://www.pvh.com/)
+- **Data Engineer** @[**Quantiphi, Mumabi, India**](https://quantiphi.com/)
+- **Data Analyst** @[**Bitwise, Pune, India**](https://www.bitwiseglobal.com/en-us/)
 
 ###
 
