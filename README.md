@@ -6,7 +6,8 @@
 - 👀 Open to Data Engineering/Analyst Roles where I can continuously learn and grow
 - 📫 How to reach me at kimaya.u.shah@gmail.com or through [Linkedin](https://www.linkedin.com/in/kimaya-shah/)
 - 👨‍💻 All of my projects are available at https://github.com/shahkimaya
-
+- 🌱 Currently learning Big Data Technologies
+  
 ### 🔨 Work Experience 
 - **Data Engineer Coop** @[**PVH, New Jersey, USA** ](https://www.pvh.com/)
 - **Data Engineer** @[**Quantiphi, Mumabi, India**](https://quantiphi.com/)
